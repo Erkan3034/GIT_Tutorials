@@ -53,8 +53,3 @@ Merge sırasında çakışma olduğunda:
 5. [ ] Conflict durumu oluştur ve çöz
 6. [ ] Kullanılmayan branch'leri sil
 
-## Notlar
-
-- Her yeni özellik için ayrı branch kullan
-- Branch isimleri açıklayıcı olmalı
-- Merge'den önce branch'in güncel olduğundan emin ol
