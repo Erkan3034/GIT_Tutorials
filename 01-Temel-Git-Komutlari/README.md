@@ -53,13 +53,6 @@ node_modules/
 .DS_Store
 ```
 
-## Pratik Alıştırmalar
-
-1. [ ] Yeni bir repository oluştur
-2. [ ] Kullanıcı bilgilerini ayarla
-3. [ ] Birkaç dosya oluştur ve commit et
-4. [ ] .gitignore dosyası oluştur
-5. [ ] Log geçmişini incele
 
 ## Notlar
 
