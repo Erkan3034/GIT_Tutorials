@@ -44,11 +44,11 @@ git clone -b <branch-adı> <repository-url>
 ## GitHub Workflow
 
 1. **Fork** - Projeyi kendi hesabınıza kopyalama
-2. **Clone** - Yerel makinenize indirin
-3. **Branch** - Yeni özellik için branch oluşturun
-4. **Commit** - Değişikliklerinizi commit edin
-5. **Push** - Branch'i GitHub'a gönderin
-6. **Pull Request** - Değişikliklerinizi önerinin
+2. **Clone** - Yerel makineye indirme
+3. **Branch** - Yeni özellik için branch oluşturma
+4. **Commit** - Değişiklikleri commit etme
+5. **Push** - Branch'i GitHub'a gönderme 
+6. **Pull Request** - Değişiklikleri öner
 
 ## Pratik Alıştırmalar
 
