@@ -46,7 +46,7 @@ Merge sırasında çakışma olduğunda:
 
 ## Pratik Alıştırmalar
 
-1. [ ] Yeni bir branch oluştur
+1. [ ] Yeni bir branch olustır
 2. [ ] Branch'te değişiklik yap ve commit et
 3. [ ] Ana branch'e geri dön
 4. [ ] Merge işlemi gerçekleştir
