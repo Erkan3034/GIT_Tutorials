@@ -56,5 +56,3 @@ Bu repository, Git versiyon kontrol sistemini öğrenme sürecimdeki tüm bilgil
 3. Karmaşık merge durumlarını çözebilmek
 4. Git'in ileri seviye özelliklerini kullanabilmek
 
----
-*Öğrenme tarihi: Eylül 2025*
