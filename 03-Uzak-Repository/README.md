@@ -43,7 +43,7 @@ git clone -b <branch-adı> <repository-url>
 
 ## GitHub Workflow
 
-1. **Fork** - Projeyi kendi hesabınıza kopyalayın
+1. **Fork** - Projeyi kendi hesabınıza kopyalama
 2. **Clone** - Yerel makinenize indirin
 3. **Branch** - Yeni özellik için branch oluşturun
 4. **Commit** - Değişikliklerinizi commit edin
