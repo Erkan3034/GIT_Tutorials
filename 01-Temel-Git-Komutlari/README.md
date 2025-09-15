@@ -28,14 +28,14 @@ git config --list
 
 ```bash
 # Dosya durumunu kontrol etme
-git status
+`git status`
 
 # Dosyaları staging area'ya ekleme
-git add <dosya-adı>
-git add .  # Tüm dosyalar
+` git add <dosya-adı> `
+` git add .  # Tüm dosyalar `
 
 # Commit oluşturma
-git commit -m "Commit mesajı"
+` git commit -m "Commit mesajı" `
 
 # Commit geçmişini görüntüleme
 git log
