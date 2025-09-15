@@ -18,7 +18,7 @@ git config --list
 
 ```bash
 # Yeni repository oluşturma
-git init
+`git init`
 
 # Mevcut repository'yi klonlama
 git clone <repository-url>
