@@ -38,7 +38,7 @@ git config --list
 ` git commit -m "Commit mesajı" `
 
 # Commit geçmişini görüntüleme
-git log
+`git log`
 git log --oneline  # Kısa format
 ```
 
