@@ -21,7 +21,7 @@ git config --list
 `git init`
 
 # Mevcut repository'yi klonlama
-git clone <repository-url>
+` git clone <repository-url> `
 ```
 
 ## Temel Komutlar
