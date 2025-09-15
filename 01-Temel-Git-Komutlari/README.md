@@ -39,7 +39,7 @@ git config --list
 
 # Commit geçmişini görüntüleme
 `git log`
-git log --oneline  # Kısa format
+`git log --oneline  # Kısa format`
 ```
 
 ## .gitignore Dosyası
