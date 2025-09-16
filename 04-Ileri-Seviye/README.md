@@ -2,7 +2,30 @@
 
 ## Rebase İşlemleri
 
-Rebase, commit geçmişini yeniden düzenlemeyi sağlar.
+Rebase, "commit geçmişini yeniden düzenleme".
+```
+Rebase (yeniden temel oluşturma), yazılım geliştirmede kullandığımız bir Git komutu. Asıl amacı, kendi çalıştığımız dalı, ana dalın en son haline getirmek ve bunu yaparken de karmaşık "birleştirme" (merge) commit'leri oluşturmadan, commit geçmişini daha temiz ve düz bir çizgi halinde tutmak.
+
+-> Rebase Ne İşe Yarar?
+
+Şöyle düşünelim: Biz main diye bir ana dalımızdan yeni bir özellik (feature) dalı oluşturduk. Biz bu yeni özellik üzerinde çalışırken, ekipteki diğer arkadaşlar da main dalına yeni değişiklikler eklediler. Şimdi, bizim feature dalımız main'den geri kalmış oldu.
+
+Normalde bu durumu düzeltmek için merge yapardık. Ama merge yaptığımızda, Git bir "merge commit" oluşturur ve bu, commit geçmişimizi dallanmış, iç içe geçmiş bir hale getirir. Bu da geçmişi okumayı zorlaştırır.
+
+İşte tam burada rebase devreye giriyor. Rebase, bizim o feature dalındaki commit'lerimizi alıyor, onları geçici olarak bir kenara koyuyor. Sonra main dalını en son haline güncelliyor ve bizim commit'lerimizi bu yeni, güncel main dalının üzerine tek tek, sırayla yeniden uyguluyor.
+
+Sonuç olarak, bizim feature dalımız artık main dalının en son haliyle başlamış gibi görünüyor ve tüm commit'lerimiz sanki tek bir doğrultuda yapılmış gibi duruyor.
+
+Özetle;
+Rebase, commit geçmişini daha temiz, daha anlaşılır ve daha düz bir hale getirir.
+
+Merge commit'lerinin karmaşasını ortadan kaldırır.
+
+Çok önemli bir kural var: 
+""Ortak kullandığımız ve yayınladığımız bir dalı asla rebase etmeyiz.""
+
+ Rebase, sadece kendi yerel dallarımızı düzenlemek için kullanılır. Eğer bir başkasının da kullandığı bir dalı rebase edersek, onunla bizim aramızdaki senkronizasyon bozulur ve büyük bir karmaşa çıkar.
+```
 
 ```bash
 # Interactive rebase (son 3 commit)
