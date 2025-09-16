@@ -2,7 +2,7 @@
 
 ## Proje 1: Basit Web Sitesi
 
-Basit bir HTML/CSS web sitesi oluşturarak Git temellerini pekiştirin.
+Basit bir HTML/CSS web sitesi oluşturarak Git temellerini pekiştirilecek.
 
 ### Hedefler:
 - [ ] Repository oluşturma

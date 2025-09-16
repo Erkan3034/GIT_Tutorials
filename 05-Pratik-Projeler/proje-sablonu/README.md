@@ -1,7 +1,7 @@
 # Proje Adı
 
 ## Açıklama
-Bu proje Git öğrenme sürecimde pratik yapmak için oluşturulmuştur.
+Bu proje Git öğrenme sürecimde pratik yapmak için oluşturulmuştur
 
 ## Kullanılan Teknolojiler
 - HTML5
