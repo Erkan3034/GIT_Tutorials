@@ -31,7 +31,7 @@ Merge commit'lerinin karmaşasını ortadan kaldırır.
 # Interactive rebase (son 3 commit)
 git rebase -i HEAD~3
 
-# Branch'i ana dal üzerine rebase etme
+# Branch'i ana dal üzerine rebase etme.
 git checkout feature-branch
 git rebase main
 ```
