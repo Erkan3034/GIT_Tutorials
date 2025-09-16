@@ -79,6 +79,21 @@ section p {
     margin-bottom: 1rem;
 }
 
+section ul {
+    list-style: none;
+    padding: 0;
+}
+
+section li {
+    padding: 0.5rem 0;
+    font-size: 1.1rem;
+    border-bottom: 1px solid #eee;
+}
+
+section li:last-child {
+    border-bottom: none;
+}
+
 
 /* Footer stilleri */
 
