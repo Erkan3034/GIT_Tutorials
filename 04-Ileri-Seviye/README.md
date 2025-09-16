@@ -2,7 +2,7 @@
 
 ## Rebase İşlemleri
 
-Rebase, commit geçmişini yeniden düzenlemenizi sağlar.
+Rebase, commit geçmişini yeniden düzenlemeyi sağlar.
 
 ```bash
 # Interactive rebase (son 3 commit)
