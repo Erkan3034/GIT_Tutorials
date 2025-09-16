@@ -1,5 +1,5 @@
 // Sayfa yüklendiğinde çalışacak fonksiyon
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function() { // DOMContentLoaded, sayfa yüklendiğinde çalışacak fonksiyon
     console.log('Git Tutorial Web Sitesi yüklendi!');
 
     // Smooth scrolling için navigation linklerine event listener ekle
