@@ -104,9 +104,3 @@ git submodule update --init --recursive
 3. [ ] Stash kullanarak değişiklikleri sakla
 4. [ ] Reset ve revert farkını öğren
 5. [ ] Basit bir hook oluştur
-
-## Notlar
-
-- Bu komutlar tehlikeli olabilir, dikkatli kullan
-- Rebase'i public branch'lerde kullanma
-- Stash geçici çözümdür, uzun süre saklanmamalı
