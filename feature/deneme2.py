@@ -4,7 +4,7 @@ import requests
 response = requests.get("https://api.github.com/users/Erkan3034")
 
 print(f"STATUS CODE: {response.status_code}")
-
+print("--------------------------------")
 try:
     # Check if the response content type is JSON
     content_type = response.headers.get('content-type', '')
