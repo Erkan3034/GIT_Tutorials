@@ -1,4 +1,7 @@
 import requests
+"""
+GitHub API kullanarak bir kullanıcının bilgilerini alma işlemi.
+"""
 
 # GitHub API endpoint for user information (returns JSON)
 response = requests.get("https://api.github.com/users/Erkan3034")
