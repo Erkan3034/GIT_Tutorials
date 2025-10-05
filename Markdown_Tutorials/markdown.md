@@ -17,5 +17,13 @@
 
 ---
 
+### Linkler
+
+[yazı] (link)  
+[İletişim](https://erkanturgut.netlify.app)
 
 
+### Görseller
+![görsel title] (görsel adresi)  
+
+![Görsel](https://picsum.photos/200/100)
