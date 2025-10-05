@@ -39,3 +39,9 @@
 // 3 backtick içine birden fazla satırlı kodları yazabiliriz.
 // (``` kod blokları```)
 ```
+
+---
+
+```javascript
+console.log("Erkan Turgut")
+```
