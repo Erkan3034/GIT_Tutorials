@@ -9,5 +9,13 @@
 - python
 - java
 
+---
+
+-> * *italic* *  
+-> ** **bold** **  
+-> *** ***italic bold*** ***
+
+---
+
 
 
