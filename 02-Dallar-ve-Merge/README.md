@@ -50,6 +50,6 @@ Merge sırasında çakışma olduğunda:
 2. [ ] Branch'te değişiklik yap ve commit et
 3. [ ] Ana branch'e geri dön
 4. [ ] Merge işlemi gerçekleştir
-5. [ ] Conflict durumu oluştur ve çöz
+5. [ ] Conflict durumu oluştur ve çöz 
 6. [ ] Kullanılmayan branch'leri sil
 
