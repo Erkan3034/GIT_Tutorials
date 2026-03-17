@@ -59,3 +59,8 @@ node_modules/
 - Her commit anlamlı bir mesaj içermeli
 - Küçük ve sık commit'ler tercih edilmeli
 - .gitignore dosyası repository başında oluşturulmalı
+
+
+## Bash KOmutları
+
+``pwd`` : bulunan klasör yolunu ver.  
